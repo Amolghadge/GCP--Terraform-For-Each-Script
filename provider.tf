@@ -1,5 +1,5 @@
 provider "google" {
-  project = "pacific-element-415516"
+  project = "<Project_id>"
   region  = "us-east1"
 }
 
